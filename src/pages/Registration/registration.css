@@ -1,0 +1,21 @@
+.registration {
+  margin: 135px auto 0 auto;
+  width: 336px;
+  background: #fff;
+  border: 1px solid #e8e8e8;
+  border-radius: 5px;
+  padding: 30px;
+}
+
+.registration a {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 14px;
+  /* identical to box height */
+
+  color: #d23669;
+}
+button {
+  margin-top: 15px;
+  width: 100%;
+}
